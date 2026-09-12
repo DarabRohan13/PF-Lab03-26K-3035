@@ -3,12 +3,18 @@ My name is Muhammad Darab Rohan. I am a Computer Science student interested in p
 
 # A Few Goals
 1.Improve my coding skills.
+
 2.Build useful projects.
+
 3.Learn different programming languages.
+
 4.Become better at problem solving.
 
 # Things I Like :
 ***Programming***/
+
 Video editing
+
 Playing games
+
 Learning new skills
